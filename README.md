@@ -15,13 +15,12 @@ VIEW the list of burgers yet to eat and eaten
 ADD the burger to the list
 MOVE the burger to and from the "to eat" or "devoured" lists
 DELETE the burger
-
+```
 ## Questions
 If you have any questions, feel free to find me at:
 * Email: benedicta.kim@gmail.com
 * Website: https://benedictakim.github.io/ 
 * Github: [@benedictakim](https://github.com/benedictakim)
-
 
 ## Donate
 Appreciate this code? Say thanks with a coffee:
